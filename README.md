@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mário Hermes</h1>
-<h3 align="center">A computer engineer and (not fullstack yet)developer from Brazil</h3>
+<h3 align="center">A computer engineer and (not yet fullstack)developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariochermes&label=Profile%20views&color=0e75b6&style=flat" alt="mariochermes" /> </p>
 
