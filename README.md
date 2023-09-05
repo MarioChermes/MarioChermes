@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mariochermes@gmail.com**
 
-- 📚 I'm interested in **pop-culture overall, Games, table-top RPGs, History and social sciences**
+- 📚 I'm interested in **pop-culture overall, games, table-top RPGs, history and social sciences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
