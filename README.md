@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, Flutter and Java**
 
-- 🤝 I’m looking to collaborate on **anything interesting**
+- 🤝 I’m looking to collaborate on **softwares with geospacial features**
 
 - 💬 Ask me about **Python, Typescript and Django**
 
