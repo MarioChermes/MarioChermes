@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular, Flutter and Java**
 
-- 💬 Ask me about **Python, Typescript and Django**
+- 💬 Ask me about **Python, Typescript and Angular**
 
 - 📫 How to reach me **mariochermes@gmail.com**
 
